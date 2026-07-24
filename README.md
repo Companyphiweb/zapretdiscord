@@ -207,6 +207,14 @@ sc delete название_из_первого_шага
  </picture>
 </a>
 
+
+TAGS:
+- discord zapret
+- zapret discord
+- obhod discord
+- discord obhod
+- fiks discord
+
 ## ⚖️Лицензия
 
 Код раздается на базисе лицензии [MIT](https://github.com/Flowseal/zapret-discord-youtube/blob/main/LICENSE.txt)
