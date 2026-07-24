@@ -218,6 +218,10 @@ TAGS:
 - Дискорд обход
 - Дискорд фикс
 - фикс дискорда
+- zapret-discord
+- discord-zapret
+- discordzapret
+- zapretdiscord
 
 ## ⚖️Лицензия
 
