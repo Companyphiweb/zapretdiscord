@@ -214,6 +214,10 @@ TAGS:
 - obhod discord
 - discord obhod
 - fiks discord
+- Обход дискорда
+- Дискорд обход
+- Дискорд фикс
+- фикс дискорда
 
 ## ⚖️Лицензия
 
